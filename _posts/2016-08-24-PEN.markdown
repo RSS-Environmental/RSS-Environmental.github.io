@@ -1,0 +1,25 @@
+---
+layout: post
+title:  "Past Earth Network workshop on Assessing Palaeoclimate Uncertainty"
+date:   2016-08-24
+author: Richard Wilkinson
+authorurl: https://rich-d-wilkinson.github.io
+categories: jekyll update events
+---
+
+
+The [Past Earth Network](www.pastearth.net) and the Environmental Statistics Section of the Royal Statistics Society held a three day workshop at Sidney Sussex College in Cambridge. The 50 delegates enjoyed the August sunshine and a variety of talks on the theme of "Assessing Palaeoclimate Uncertainty". The workshop was organised around 5 themes, and to facilitate the aims of the Past Earth Network, each theme had two speakers - one from climate and one from statistics.
+
+Theme 1 on was on parameter estimation, often called calibration or tuning in climate science. For climate models the most pressing challenge is the computational expense of the simulators, so that inference has to be done with only a small ensemble of model evaluations. Tamsin Edwards (Open University) kicked off the meeting with a talk on how not to calibrate your model, using a recent Nature paper as an example. Danny Williamson then followed up by describing how GCMs are calibrated in practice using anomaly fields for different model outputs. He introduced the 'whack-a-mole' phenomenon, in which parameter estimates jump about with each new piece of information obtain, which can occur when model discrepancy is not properly accounted for.
+
+Theme 2 was on spatial-temporal modelling. Palaeoclimate data are messy in several ways that makes statistical analysis difficult. Firstly, they are not direct observations of climate, but instead are measurements of some other (proxy) quantity which varies in response to climate. Secondly, the data are often spatially and temporally sparse, with uncertainties in both the climatic quantity being measured, and in the dating estimate. Ruza Ivanovic (Leeds) discussed these issues and others, and highlighted how data are used to create reconstructions of past climatic events. Part of the challenge is reconstructing the boundary conditions necessary for model simulations of palaeoclimate. Hans Wackernagel (MINES ParisTech) followed Ruza by talking about geo-statistical approaches to space-time modelling, and discussed recent work by Andrew Zammit-Magnion on spatio-temporal modelling for assessing Antarctica's present-day contribution to sea-level rise.
+
+Theme 3 was on model-data comparison, which is the process by which scientists hope to learn how well a climate model is performing by comparing its predictions to observational data. The challenge is that the data often lack any error estimates, making it hard to know whether a prediction is good or not. Moreover, the data and model predictions are spatially and temporally correlated, and often are not directly comparable. Dan Lunt (Bristol) discussed all of these problems and more. Ian Vernon's (Durham) talk was on the challenges of dealing with model discrepancy within a statistical framework and how history matching can be used to estimate parameters given a simple specification of model discrepancy.
+
+Theme 4 was on detecting tipping points and spectral analysis. Peter Detlivesen (Niels Bohr Institute) talked about representing the climate system as a bi-stable system driven by $\alpha$-stable stochastic forcing. He also discussed the possibility of detecting tipping points before they occur, and suggested that they are largely noise induced and thus impossible to predict.  Charles (Dave) Camp (Cal Poly) then talked about why he dislikes the use of spectral methods to infer the drivers of the climate. He discussed the advantages of using reduced order models, such as those by Saltzman and Maasch.
+
+Theme 5 was on data assimilation. James Annan (Blue skies research) talked about the use of assimilation methods (particularly the Kalman filter) to produce climate reconstructions. He also discussed using data assimilation to tune intermediate complexity models (EMICs), showing how this has produced superior model fits for EMICs such as GENIE. Peter Jan van Leeuwen (Reading) then discussed the statistical aspects of data assimilation, illustrated with experiences from numerical weather prediction. He advocated the use of the particle filter over Kalman based methods, even for large spatial prediction problems in which we can only have a limited ensemble of model evaluations, as although the dimension of the state variable is large, there is essentially only a few observations of the climate system and so degeneracy is not as large a problem as one might imagine.
+
+Plenty of time was made available for discussion, both collectively and in smaller break-out groups. Participants were encouraged to develop proposals for the PEN feasibility funding scheme (deadline for applications 30 Sept 2016).
+
+ <img src="/images/PEN.jpg" alt="Group picture" width="800" height="600">

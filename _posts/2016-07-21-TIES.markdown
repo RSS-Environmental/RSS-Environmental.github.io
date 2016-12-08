@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "The International Environmetrics Society (TIES) conference"
+date:   2016-07-21
+author: Duncan Lee
+authorurl: http://www.gla.ac.uk/schools/mathematicsstatistics/staff/duncanlee/
+
+categories: jekyll update events
+---
+
+
+
+The Environmental Statistics Section of the RSS jointly organized (with the Edinburgh and Glasgow RSS local groups) a session at The International Environmetrics Society (TIES) on 21st July 2016. The event was held at Heriot Watt University in Edinburgh, and the session had 3 speakers each representing one of the RSS groups listed above. The speakers and titles were:
+
+- Alastair Rushworth – University of Strathclyde and Glasgow local group – Is time really a healer? Building distributed lag models with varying smoothness penalties.
+
+- Duncan Lee – University of Glasgow and Environmental Statistics Section – Quantifying the spatial inequality and temporal trends in maternal smoking rates in Glasgow.
+
+- Ron Smith – Centre for Ecology & Hydrology and Edinburgh local group – Applications of Bayesian belief networks for studying ecosystem services
+
+The session was held in the main conference auditorium and was attended by around 40 participants.

@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "Assessing Uncertainty in Premature Mortality Due to Degraded Air Quality"
+date:   2017-01-09
+author: Stefano Castruccio and Sarah Heaps
+authorurl:  http://www.ncl.ac.uk/maths/
+
+categories: jekyll update events
+---
+
+
+Ambient air pollution, including elevated concentrations of atmospheric particles, is estimated to cause approximately 3.7 million premature deaths worldwide per year [WHO, 2014]. Eighty-eight percent of these deaths occur in low- and middle- income countries, with the greatest burdens in the Western Pacific and South-East Asia regions. A particular concern for human health is fine particles (particulate matter (PM) with diameters smaller than 2.5 µm (i.e. PM2.5)). These particles adversely affect human health by penetrating deeply into the respiratory system, causing acute and chronic cardiovascular and respiratory diseases, cancers, and increasing the number of premature deaths.
+
+Degraded air quality could be generated from many sources. While emissions from power generation, agriculture, traffic and industrial activities are the major contributors to mortality associated with outdoor air pollution in Western countries, less developed and developing countries mostly experience unhealthy air quality conditions from natural, biomass burning and residential and commercial energy use (for example, heating, cooking) emissions.
+
+Monitoring emissions is a considerable challenge, given the scarcity of coverage in space and time from monitoring sites. Statistical methods need to be developed to integrate this information with additional sources such as satellite data, and to assess the uncertainty of comprehensive spatial air pollution maps. An alternative method is to perform numerical model simulation at high spatial resolution, and use the simulated air pollutant concentration as a proxy for the unobserved ground truth.
+
+Once pollution maps are produced, translating this information into exposure risk, and ultimately mortality introduces further uncertainty, due to lack of hospitalization data, or epidemiological studies linking air pollution exposure (especially in extreme concentrations) and health effects in less developed countries. Consequently, studies based on US or European cohorts are employed, where the pollutant concentrations are considerably lower than in developing countries.
+
+The workshop aims to provide a detailed discussion on how to monitor air pollution and infer the associated mortality, what the sources of uncertainty are, and how can they be assessed. Dr. Scott Archer-Nicholls (Postdoctoral Fellow at Cambridge University) will discuss a model-based approach in estimating combustion emission and associated mortality in China, Prof. Gavin Shaddick (Professor of Statistics at the University of Bath) will introduce a statistics-based approach to global mapping using multiple sources, and Fintan Hurley (Scientific Director at the Institute of Occupational Medicine) will further discuss how to link pollution to mortality.

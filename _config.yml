@@ -1,0 +1,67 @@
+# Jekyll configuration
+
+name: RSS Environmental Statistics
+
+gems:
+        - 'jekyll/scholar'
+
+scholar:
+  style: apa
+  locale: en
+
+  sort_by: none
+  order: ascending
+
+  source: ./_bibliography
+  bibliography: references.bib
+  bibliography_template: bib
+
+
+  replace_strings: true
+  join_strings:    true
+
+  details_dir:    bibliography
+  details_layout: bibtex.html
+  details_link:   Details
+
+  query: "@*"
+
+# baseurl will often be '', but for a project page on gh-pages, it needs to
+# be the project name.
+# *** IMPORTANT: If your local "jekyll serve" throws errors change this to '' or
+#     run it like so: jekyll serve --baseurl=''
+baseurl: ''
+
+# This can be '' to hide the Github nav button
+github: 'rich-d-wilkinson'
+
+# Set this to your UA-# value, or '' to disable the block completely
+gaaccount: ''
+
+# Set this to your disqus shortname to enable comments. Note that the 'comments'
+# setting below must also be true. Individual posts can override 'comments' to
+# disable on a post-by-post basis
+#disqus: ''
+comments:
+  provider : disqus
+  disqus :
+    short_name : rdwilkinson
+
+permalink: date
+
+highlighter: pygments
+markdown: kramdown
+kramdown:
+          input: GFM # Enable GitHub Flavored Markdown (fenced code blocks)
+
+encoding: UTF-8
+
+future: true
+
+authors:
+  rich:
+    display_name: Richard Wilkinson
+    email: r.d.wilkinson@sheffield.ac.uk
+    web: http://www.richtaur.com/
+    twitter: richtaur
+    github: richtaur

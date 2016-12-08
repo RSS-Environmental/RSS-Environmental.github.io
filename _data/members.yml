@@ -1,0 +1,45 @@
+- name: Ali Johnston
+  web:
+  role: Chair
+  officer: True
+  university:
+  interests: stuff
+
+- name: Richard Wilkinson
+  web:
+  role: Vice-chair
+  officer: True
+
+- name: Adam Butler
+  web:
+  role: Secretary
+  officer: True
+
+- name: Michael Spence
+  web:
+  role: Meetings Secretary
+  officer: True
+
+- name: Duncan Lee
+  web:
+
+- name: Daniel Williamson
+  web:
+
+- name: Sarah Heaps
+  web:
+
+- name: Eleni Matechou
+  web:
+
+- name: Stefano Castruccio
+  web:
+
+- name:  Peter Henrys
+  web:
+
+- name: Theo Economou
+  web:
+
+- name: Phil Sansom
+  web:

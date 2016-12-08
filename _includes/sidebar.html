@@ -1,0 +1,23 @@
+<div class="sidebar well">
+<td align="right"> <a href="https://www.rss.org.uk/"><img src='/images/RSS.png' width="100%"></a></td>
+</div>
+
+
+
+<div class="sidebar well">
+	<h1>Committee members</h1>
+
+	<ul>
+	{% for member in site.data.members %}
+	  <li>
+	  {% if member.officer%}
+	  {{member.role}}:
+	  {% endif %}
+	    <a href="https://github.com/{{ member.github }}">
+	      {{ member.name }}
+	    </a>
+	  </li>
+	{% endfor %}
+	</ul>
+
+	</div>
