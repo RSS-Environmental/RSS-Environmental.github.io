@@ -6,9 +6,11 @@
   interests: stuff
 
 - name: Richard Wilkinson
-  web:
+  web: https://rich-d-wilkinson.github.io/
   role: Vice-chair
+  university: University of Sheffield
   officer: True
+  interests: uncertainty quantification and climate science
 
 - name: Adam Butler
   web:

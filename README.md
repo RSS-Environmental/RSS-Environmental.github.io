@@ -1,14 +1,13 @@
-# Editing SheffieldUQ pages
+# Editing RSS-Environmental pages
 
 These are the webpages for the Royal Statistical Society Environmental Statistics Section.
 
 ### Getting started
 
-* Request to joint the RSS-Environmental organisation on github (email me  your github id)
+* Request to join the RSS-Environmental organisation on github (email me  your github id)
 * Clone the page
 ```
 git clone https://github.com/RSS-Environmental/RSS-Environmental.github.io.git
-cd RSS-Environmental
 ```
 ###
 

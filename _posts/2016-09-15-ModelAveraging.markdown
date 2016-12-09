@@ -11,4 +11,4 @@ On September 15th 2016, a half-day meeting on Model Averaging – organised by t
 
 There were three invited speakers: Professor Richard Chandler, from University College London, Professor Jonty Rougier, from the University of Bristol and Dr Kate Searle, from the Centre for Ecology and Hydrology, who presented via Skype.
 
-A full report is available from [https://methodsblog.wordpress.com/2016/10/03/model-averaging/](Eleni Matechou)
+A full report is available from [Eleni Matechou](https://methodsblog.wordpress.com/2016/10/03/model-averaging/)
