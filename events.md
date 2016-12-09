@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Future ESS events
-order: 1
+title: Future events
+order: 2
 
 ---
 

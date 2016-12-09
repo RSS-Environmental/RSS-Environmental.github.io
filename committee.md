@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Committee
-order: 3
+order: 4
 
 ---
 

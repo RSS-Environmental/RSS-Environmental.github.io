@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Past events
-order: 2
+order: 3
 ---
 
 # Past events organised by the ESS
