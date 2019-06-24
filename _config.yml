@@ -49,7 +49,7 @@ comments:
 
 permalink: date
 
-highlighter: pygments
+highlighter: rouge
 markdown: kramdown
 kramdown:
           input: GFM # Enable GitHub Flavored Markdown (fenced code blocks)
