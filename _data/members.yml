@@ -1,47 +1,46 @@
-- name: Ali Johnston
+- name: Eleni Matechou
   web:
   role: Chair
   officer: True
-  university:
-  interests: stuff
 
-- name: Richard Wilkinson
-  web: https://rich-d-wilkinson.github.io/
+- name: Peter Henrys
+  web: https://twitter.com/petehenrys
   role: Vice-chair
-  university: University of Sheffield
   officer: True
-  interests: uncertainty quantification and climate science
 
 - name: Adam Butler
   web:
   role: Secretary
   officer: True
 
-- name: Michael Spence
-  web:
+- name: Ben Swallow
+  web: https://twitter.com/benswallow88/
   role: Meetings Secretary
   officer: True
 
-- name: Duncan Lee
-  web:
-
-- name: Daniel Williamson
-  web:
-
-- name: Sarah Heaps
-  web:
-
-- name: Eleni Matechou
-  web:
-
-- name: Stefano Castruccio
-  web:
-
-- name:  Peter Henrys
-  web:
-
-- name: Theo Economou
-  web:
+- name: Mike Spencer
+  web: https://twitter.com/MikeRSpencer
 
 - name: Phil Sansom
+  web:
+
+- name: Rick Stafford
+  web: https://twitter.com/rick7575/
+
+- name: Lee Fawcett
+  web:
+
+- name: Mike Spence
+  web: https://twitter.com/MASpence86/
+
+- name: Adam Griffin
+  web:
+
+- name: Ali Johnston
+  web: https://twitter.com/ali__johnston
+
+- name: Malcolm Hall
+  web:
+
+- name: Theresa Smith
   web:
