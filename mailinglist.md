@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Mailing list
-order: 5
+order: 3
 
 ---
 
