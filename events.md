@@ -6,23 +6,6 @@ order: 2
 ---
 
 
-# Events
+Follow our [Twitter feed](https://twitter.com/rss_ess) [(@rss_ess)](https://twitter.com/rss_ess) for the latest events!
 
-We'll list forthcoming events here.
-
-<ul class="posts">
-{% assign curDate = site.time | date: '%s' %}
-{% for post in site.posts %}
-    {% assign postStartDate = post.date | date: '%s' %}
-    {% if postStartDate >= curDate %}
-    <li>
-    <a href="{{ post.url }}">{{post.date | date_to_string}} {{ post.title }}</a>
-    <p>
-    {{ post.excerpt | remove: '<p>' | remove: '</p>' }}</p>
-    </li>
-
-    {% endif %}
-{% endfor %}
-
-
-</ul>
+<a class="twitter-timeline" href="https://twitter.com/rss_ess?ref_src=twsrc%5Etfw">Tweets by rss_ess</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
