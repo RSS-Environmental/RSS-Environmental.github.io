@@ -16,7 +16,7 @@ order: 4
   {% if member.officer%}
   {{member.role}}:
   {% endif %}
-    <a href="https://github.com/{{ member.github }}">
+    <a href="{{ member.web }}">
       {{ member.name }} <!--({{member.university}})-->
     </a>
   </li>
