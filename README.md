@@ -4,6 +4,7 @@ These are the webpages for the Royal Statistical Society Environmental Statistic
 
 ### Getting started
 
+* Introduction to Git <http://swcarpentry.github.io/git-novice/>
 * Request to join the RSS-Environmental organisation on github (email me  your github id)
 * Clone the page
 ```
