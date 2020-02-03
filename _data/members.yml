@@ -8,39 +8,39 @@
   role: Vice-chair
   officer: True
 
-- name: Adam Butler
-  web:
+- name: Phil Sansom
+  web: https://emps.exeter.ac.uk/mathematics/staff/ps344
   role: Secretary
   officer: True
 
 - name: Ben Swallow
-  web: https://twitter.com/benswallow88/
+  web: https://ben-swallow.github.io
   role: Meetings Secretary
   officer: True
 
 - name: Mike Spencer
   web: https://twitter.com/MikeRSpencer
 
-- name: Phil Sansom
-  web:
-
-- name: Rick Stafford
-  web: https://twitter.com/rick7575/
-
-- name: Lee Fawcett
-  web:
-
-- name: Mike Spence
-  web: https://twitter.com/MASpence86/
-
 - name: Adam Griffin
-  web:
-
-- name: Ali Johnston
-  web: https://twitter.com/ali__johnston
-
-- name: Malcolm Hall
   web:
 
 - name: Theresa Smith
   web: https://twitter.com/TheresaRSmith
+
+- name: Claudia Neves
+  web:
+  
+- name: Gordon Ross
+  web:
+  
+- name: Emily Dennis
+  web:
+  
+- name: Gail Robertson
+  web:
+  
+- name: Aoibheann Brady
+  web:
+  
+- name: Nicole Augustin
+  web:
