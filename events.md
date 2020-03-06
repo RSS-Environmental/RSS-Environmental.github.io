@@ -10,7 +10,7 @@ Upcoming and past events can be found below.
 
 # Upcoming events
 
-* 19th March 2020, 17.30-16.30
+* 19th March 2020, 17.30-18.30
 [R Glasgow Meets RSS](https://www.meetup.com/RGlasgow/), Social and Public Halth Sciences Unit, Glasgow
 
 * 7th May, 2020 
