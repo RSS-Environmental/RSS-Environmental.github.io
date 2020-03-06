@@ -11,7 +11,7 @@ Upcoming and past events can be found below.
 # Upcoming events
 
 * 19th March 2020, 17.30-16.30
-R Glasgow Meets RSS, Social and Public Halth Sciences Unit, Glasgow
+[R Glasgow Meets RSS](https://www.meetup.com/RGlasgow/), Social and Public Halth Sciences Unit, Glasgow
 
 * 7th May, 2020 
 [eDNA: Challenges and Opportunities](https://blogs.kent.ac.uk/seak/2020/01/31/edna-challenges-and-opportunities-rss-meeting-on-the-7th-of-may-2020/), University of Kent
